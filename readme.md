@@ -1,4 +1,4 @@
-a jquery plugin for images pre-loading
+a jquery plugin for preload images.
 see the source code of the demo.html to find out how to use
 this plugin.
 BTW:This is my first jquery plugin,mainly for the study of 
