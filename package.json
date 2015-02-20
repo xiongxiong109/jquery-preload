@@ -1,0 +1,9 @@
+{
+	"name":"jquery-preload",
+	"version":"1.0.0",
+	"author":"bear",
+	"dependencies":{
+		"grunt":"latest",
+		"grunt-contrib-uglify":"latest"
+	}
+}
